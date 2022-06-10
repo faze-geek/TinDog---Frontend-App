@@ -13,6 +13,6 @@ A web based front-end application for online match making of dogs with similar t
  
 # How to Run:
 
-- Download the repository.
+- Download the repository as ZIP.
 - Extract the ZIP and open the index.html in your browser.
  
